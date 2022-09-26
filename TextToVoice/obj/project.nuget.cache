@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9xumnq2Rj7GNabKGkeg05Qkm7dMrJxYHb1ZGR0AyoFJxLs/M95bmo30KX6+mCfwFBZySLAx+XRTsb2NIIKOi/Q==",
+  "success": true,
+  "projectFilePath": "C:\\YOUTUBE\\C#\\text2Voice\\TextToVoice\\TextToVoice\\TextToVoice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\scottj.SCOTTWIN10-2\\.nuget\\packages\\system.speech\\6.0.0\\system.speech.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
